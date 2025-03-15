@@ -8,6 +8,7 @@ Several factors may contribute to these disparities, including increased fast fo
 The findings emphasize the need for targeted interentions to improve mental health support, address systemic healthcare barriers, and promote healthier lifestyle choices. 
 
 **Which aireline has the best rating and why**
+
 This analysis evaluates the top thress airlines based on overall passenger ratings, with China Southern Airelines receiving the highest rating (391), followed by Hainan Airlines (375), and ANA All Nippon Airways (357). 
 China Southern Airlines stands out with the highest passenger recommendation rate, as only 1.03% of travelers reported they would not recommend it, compared to 7.45% for Hainan Airlines and 15.16% for ANA All Nippon Airways.
 
