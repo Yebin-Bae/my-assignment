@@ -1,4 +1,4 @@
-# **Infographic Descriptions**
+# **Infographic Description**
 
 ## **Understanding Mental Distress In New Zealand**
 
