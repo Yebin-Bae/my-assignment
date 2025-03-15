@@ -1,4 +1,5 @@
 **Understanding Mental Distress In New Zealand**
+
 This infographic provides an in-depth analysis of mental distres in New Zealand, highlighting significant ethinic variations. 
 Data from 2011 to 2021 shows that Maori and Pacific populations experience higher rates of mental distress than other ethnicities, with depression, anxiety, disorders, ADHD, and bipolar disorder being more prevalent among them.
 Self-rated health assessments indicate that Maori individuals report the highest levels of fair or poor health and the lowest levels of excellent or very good health. 
